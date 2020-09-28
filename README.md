@@ -17,7 +17,7 @@
 
 * `apt update`
 * `apt install git python python2 -y`
-* `git clone https://github.com/htr-tech/indocrack.git`
+* `git clone https://github.com/erik51/FbAuto`
 * `cd indocrack`
 
 #### > Run : `python2 crack.py`
